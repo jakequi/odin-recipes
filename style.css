@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    background-color: lightgray;
+}
+
+.quote {
+    font-size: 186x;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    color: darkslateblue
+}
