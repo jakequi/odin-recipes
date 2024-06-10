@@ -11,6 +11,13 @@ ul {
     list-style-type: none;
 }
 
+li {
+    margin: 12px auto;
+    outline: auto;
+    padding: 4px;
+    background-color: lightpink;
+    width: 25%;
+
 h1 {
     color: darkslateblue;
 }
